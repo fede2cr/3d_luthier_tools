@@ -17,7 +17,5 @@ Las piezas de diseño propio incluyen las fuentes en FreeCAD, dado que normalmen
 
 # [Extractor de tornillo](https://github.com/fede2cr/3d_luthier_tools/blob/master/screw_extractor_jig/README.md)
 
-https://github.com/fede2cr/3d_luthier_tools/blob/master/README.md
-
 ### Piezas de Thingiverse
 * Almohada para cuello: Parte impresa en ninjaflex u otro filamento flexible, para no rayar la guitarra en lo más mínimo.
